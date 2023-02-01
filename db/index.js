@@ -50,5 +50,4 @@ module.exports = {
   client,
   createTables,
   seedData,
-  usersAndStories
 };
